@@ -104,7 +104,7 @@ nav form button {
   border: 1px solid rgb(2, 2, 2);
   border-radius: 20px;
   margin: 0;
-  background-image: url('images/标题背景.jpg');
+  background-image: url('./images/标题背景.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   line-height: 50px;
@@ -510,7 +510,7 @@ nav form button {
 
 /*页脚*/
 .footer {
-  background: url(./images/底部.jpg) no-repeat;
+  background: url('./images/底部.jpg') no-repeat;
   background-size: 100% 100%;
   width: 100%;
   height: 300px;
